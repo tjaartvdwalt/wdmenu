@@ -1,0 +1,8 @@
+* Wayland dynamic menu
+wdmenu is a Wayland port of the Suckless project [[http://tools.suckless.org/dmenu/][dmenu]]
+
+From the dmenu manpage:
+~dmenu is a dynamic menu for X, which reads a list of newline-separated items from stdin.  When the user selects an item and presses Return, their choice is printed to stdout and dmenu terminates. Entering text will narrow the items to those matching the tokens in the input.~
+
+This project simply aims to replace X with Wayland.
+
